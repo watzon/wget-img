@@ -1,0 +1,17 @@
+name: wget-img
+version: 0.1.0
+
+authors:
+  - Chris Watson <chris@watzon.me>
+
+targets:
+  wget-img:
+    main: src/wget-img.cr
+
+dependencies:
+  crystagiri:
+    github: madeindjs/crystagiri
+
+crystal: 0.24.0
+
+license: MIT
