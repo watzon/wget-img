@@ -2,7 +2,7 @@ name: wget-img
 version: 0.1.0
 
 authors:
-  - Chris Watson <chris@watzon.me>
+  - Chris Watson <chris@watzon.tech>
 
 targets:
   wget-img:
